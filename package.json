@@ -8,8 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sparticuz/chromium": "^141.0.0",
     "next": "16.0.4",
-    "puppeteer": "^24.31.0",
+    "puppeteer-core": "^24.31.0",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   }
