@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/generate/route.js": {
+      "includeFiles": "node_modules/@sparticuz/chromium/bin/**"
+    }
+  }
+}
